@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UAS</string>
+    <string name="name">nama</string>
+    <string name="username">nama pengguna</string>
+    <string name="location">Lokasi : %s</string>
+    <string name="repository">Repositori : %s</string>
+    <string name="company">Perusahaan : %s</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="FindUsername">Cari Nama Pengguna</string>
+</resources>

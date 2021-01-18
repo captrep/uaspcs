@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UAS</string>
+    <string name="name">name</string>
+    <string name="username">username</string>
+    <string name="location">Location : %s </string>
+    <string name="repository">Repository : %s </string>
+    <string name="company">Company : %s </string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="FindUsername">Find Username</string> Find Username />
+</resources>
